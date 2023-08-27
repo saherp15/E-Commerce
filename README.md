@@ -1,10 +1,10 @@
 # E-Commerce
 
 ## Goal
-The project aimed to analyze Google reviews of the TV series "Stranger Things" using text analytics techniques. It involved scraping, cleaning, and analyzing the data to gain insights into user sentiments and common words in reviews. The process included data scraping, data cleaning, sentiment analysis, and identifying common words. The important features of the project included sentiment analysis results, user-specific analysis, and identification of common words in reviews. The analysis provided valuable insights into user sentiments and preferences regarding the TV series
+Goal: Extract valuable insights from retail data using SQL queries to make data-driven business decisions.
 
-## Process
-The project involved scraping and analyzing Google reviews of the TV series "Stranger Things" using text analytics techniques. The process included scraping review data, cleaning it by removing emojis and extracting relevant information, such as the year of the review. Sentiment analysis was performed to determine positive, negative, and neutral sentiments in the reviews. The most common words were identified through tokenization and analysis. The results provided insights into user sentiments, common words, and user-specific patterns.
+## Process:
+ The retail data analysis begins with dataset exploration, where data types and time periods are examined. In-depth exploration follows, analyzing e-commerce trends and customer behaviors. The impact on the economy is assessed by calculating cost increases and studying sales patterns. Delivery efficiency is evaluated by analyzing delivery times. Payment trends are then identified, tracking payment types and installments.
 
-## Feautures
-The project included web scraping, data cleaning, sentiment analysis, and word frequency analysis to comprehensively explore Google reviews for "Stranger Things." It also examined user-specific trends and temporal patterns.
+## Features
+The process focuses on key features such as e-commerce growth trends, preferred purchase times, state-specific order evolution, financial impact, sales analysis, delivery efficiency, and payment preferences. These insights empower businesses to enhance strategies and customer experiences, leading to better-informed decisions.
